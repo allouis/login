@@ -1,0 +1,27 @@
+{
+  "name": "north-american-octo-wookie",
+  "version": "0.0.0",
+  "description": "north-american-octo-wookie ==========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allouis/north-american-octo-wookie.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/allouis/north-american-octo-wookie/issues"
+  },
+  "homepage": "https://github.com/allouis/north-american-octo-wookie",
+  "dependencies": {
+    "mongodb": "~1.3.23",
+    "rsvp": "~3.0.3",
+    "jade": "~1.1.5",
+    "express": "~3.4.8",
+    "underscore": "~1.5.2",
+    "bcryptjs": "~0.7.10"
+  }
+}
